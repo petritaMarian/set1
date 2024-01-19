@@ -194,13 +194,9 @@
             return true;
         }
 
-        // #20
-
-
-
         static void Main(string[] args)
         {
-            increasingOrderNoArray(2, 3, 5, 1, 0);
+            ;
         }
     }
 }
